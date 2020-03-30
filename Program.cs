@@ -19,7 +19,7 @@ namespace exercicio_for_7
 
             for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine(i+" "+(Math.Pow(i,2))+" "+(Math.Pow(i,3)));
+                Console.WriteLine(i+" "+"Quadrado "+(Math.Pow(i,2))+" "+"Cubo "+(Math.Pow(i,3)));
 
             }
         }
