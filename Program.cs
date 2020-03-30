@@ -22,6 +22,7 @@ namespace exercicio_for_7
                 Console.WriteLine(i+" "+"Quadrado "+(Math.Pow(i,2))+" "+"Cubo "+(Math.Pow(i,3)));
 
             }
+            Console.WriteLine(n+" Linhas");
         }
     }
 }
